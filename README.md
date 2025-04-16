@@ -8,20 +8,20 @@
 # Métodos Utilizados para Levantamento de Requisitos:
 Para entender as necessidades do cliente e criar um sistema eficaz, o grupo usou os seguintes métodos de levantamento de requisitos:
 
-1. Observação direta
-Um dos integrantes do grupo acompanhou um dia inteiro de trabalho do proprietário da empresa para compreender melhor o processo atual e identificar as “dores” na operação.
+1. Observação direta:
+um dos integrantes do grupo acompanhou um dia inteiro de trabalho do proprietário da empresa para compreender melhor o processo atual e identificar as “dores” na operação.
 
-2. Entrevista
-Após a observação, foi feita uma entrevista com o propietário com perguntas mais trabalhadas, baseando-se em dados observados no dia anterior.
+2. Entrevista:
+após a observação, foi feita uma entrevista com o propietário com perguntas mais trabalhadas, baseando-se em dados observados no dia anterior.
 
-3. Questionários online 
+3. Questionários online: 
 Foram enviados questionários aos clientes que provavelmente usariam o novo sistema. O objetivo foi entender o perfil dos usuários, suas preferências, dificuldades e sugestões para o aplicativo.
 
-4. Prototipagem rápida
-Usando o Figma, o grupo criou protótipos iniciais da interface. Esses protótipos foram mostrados ao dono da empresa para coleta de feedbacks rápidos e ajutes levanto em conta os feedbacks.
+4. Prototipagem rápida:
+usando o Figma, o grupo criou protótipos iniciais da interface. Esses protótipos foram mostrados ao dono da empresa para coleta de feedbacks rápidos e ajutes levanto em conta os feedbacks.
 
-5. Reuniões com o dono
-Ao longo de toda a criação, foram feitas reuniões regulares para alinhar expectativas, validar funcionalidades e garantir que as decisões de design e usabilidade fossem de aceitação ao perfil do público-alvo.
+5. Reuniões com o dono:
+ao longo de toda a criação, foram feitas reuniões regulares para alinhar expectativas, validar funcionalidades e garantir que as decisões de design e usabilidade fossem de aceitação ao perfil do público-alvo.
 # Requisitos Funcionais (o que o sistema deve fazer)
 - Cadastro de Usuário: deve permitir o cadastro de clientes com CPF, número de telefone e, opcionalmente, e-mail.
 
